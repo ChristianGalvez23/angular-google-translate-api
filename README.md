@@ -1,4 +1,12 @@
-# AngularGoogleTranslateApi
+# Angular Translator App
+
+I developed this frontend web app using Google API. Once you run this app you'll have to introduce your API Key provided by Google Dev.
+
+The only constraint is that app was developed to translate from english to spanish. I will implement other languages later.
+
+**Requirements**: You have to get your API Key on Google.
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
